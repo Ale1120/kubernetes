@@ -1,0 +1,2 @@
+This is postgres.yaml is the file needed to deploy the postgres replication controller on gcloud, the only changes needed to make it work is change the 
+name of the persistence disk to the one that is being use
